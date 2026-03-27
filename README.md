@@ -1,6 +1,6 @@
 # claude-handoff-skills
 
-`handoff.skill` is a skill file for the web/desktop versions of Claude.
+`handoff.skill` is a skill file for Claude's "Chat" tabs - be that in the web app or the desktop app.
 - To use it, go to https://claude.ai/customize/skills (or the equivalent page in the desktop app), click "+", and select "Upload a skill."
 
 `handoff/SKILL.md` is a skill file for Claude Code.
